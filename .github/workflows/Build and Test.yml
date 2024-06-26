@@ -3,7 +3,7 @@ name: Build and Test .Net
 on:
   push:
     branches:
-      - 'feature/*'
+      - 'main'
 
 jobs:
 
